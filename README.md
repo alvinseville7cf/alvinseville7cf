@@ -4,3 +4,9 @@
 
 
 > No programming language is perfect. There is not even a single best language; there are only languages well suited or perhaps poorly suited for particular purposes. Herbert Mayer (c)
+
+```bash
+cat <<-"EOF" > alvinseville7cf.logs
+I love shell languages like Bash, Fish and Batch Script. More often I use Bash.
+EOF
+```
