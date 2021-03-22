@@ -10,3 +10,7 @@ cat <<-"EOF" > alvinseville7cf.logs
 I love shell languages like Bash, Fish and Batch Script. More often I use Bash.
 EOF
 ```
+
+## Dashboard
+[![Alvin's github stats](https://github-readme-stats.vercel.app/api?username=AlvinSeville7cf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinSeville7cf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
