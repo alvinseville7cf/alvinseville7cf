@@ -9,7 +9,8 @@ _Please use only these contacts to write me._
 
 ```bash
 cat <<-"EOF" > alvinseville7cf.logs
-I love shell languages like Bash, Fish and Batch Script. More often I use Bash and Python. I used C# earlier but it is not very interesting for me now.
+I love shell languages like Bash, Fish and Batch Script. More often I use Bash and Python.
+I used C# earlier but it is not very interesting for me now.
 EOF
 ```
 
