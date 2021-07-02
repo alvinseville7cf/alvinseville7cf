@@ -15,3 +15,5 @@ EOF
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinSeville7cf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+⚠️ Almost GitHub projects are stale. Please follow [this](https://gitlab.com/alvinseville7cf) GitLab profile link to view my actual projects.
